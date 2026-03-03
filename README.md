@@ -90,6 +90,7 @@ track_suits.csv
 The generated CSV contains the following columns:
 
 Column Name	                    Description
+
 Product Name	                Name of the item
 
 Current Price	                Discounted price
