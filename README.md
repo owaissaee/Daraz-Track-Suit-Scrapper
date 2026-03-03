@@ -39,6 +39,7 @@ The scraper iterates through multiple pages and collects detailed product inform
 ---
 
 📂 Project Structure
+
 daraz-track-suit-scraper/
 │
 ├── scrapping.py
@@ -54,12 +55,14 @@ daraz-track-suit-scraper/
 ⚙️ Installation
 
 1️⃣ Clone the repository
+
 bash
 git clone https://github.com/owaissaee/Daraz-Track-Suit-Scrapper.git
 
 cd Daraz-Track-Suit-Scrapper
 
 2️⃣ Create virtual environment (recommended)
+
 python -m venv venv
 
 source venv/bin/activate  # Linux / Mac
@@ -67,6 +70,7 @@ source venv/bin/activate  # Linux / Mac
 venv\Scripts\activate     # Windows
 
 3️⃣ Install dependencies
+
 pip install -r requirements.txt
 
 ---
