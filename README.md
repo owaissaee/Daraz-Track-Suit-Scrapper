@@ -42,8 +42,11 @@ The scraper iterates through multiple pages and collects detailed product inform
 daraz-track-suit-scraper/
 │
 ├── scrapping.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
 
 ---
@@ -53,11 +56,14 @@ daraz-track-suit-scraper/
 1️⃣ Clone the repository
 bash
 git clone https://github.com/owaissaee/Daraz-Track-Suit-Scrapper.git
+
 cd Daraz-Track-Suit-Scrapper
 
 2️⃣ Create virtual environment (recommended)
 python -m venv venv
+
 source venv/bin/activate  # Linux / Mac
+
 venv\Scripts\activate     # Windows
 
 3️⃣ Install dependencies
@@ -81,12 +87,19 @@ The generated CSV contains the following columns:
 
 Column Name	                    Description
 Product Name	                Name of the item
+
 Current Price	                Discounted price
+
 Original Price	              Price before discount
+
 Discount	                    Discount percentage
+
 Rating	                      Product rating
+
 Sold Units	                  Units sold
+
 Location	                    Seller location
+
 Product URL	                  Direct link to product
 
 ---
@@ -112,4 +125,5 @@ Store data in a database instead of CSV
 ---
 
 👤 Author
+
 Owais Saeed
