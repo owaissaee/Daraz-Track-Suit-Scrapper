@@ -95,7 +95,3 @@ Upon completion, a file named `track_suits.csv` will be generated in the root di
 ## 👤 Author
 
 **Owais Saeed**
-
-**Would you like me to also provide a specific `.gitignore` for this scraper to keep your repo clean of Chrome driver logs?**
-
-```
