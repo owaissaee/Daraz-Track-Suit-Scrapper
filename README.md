@@ -1,5 +1,5 @@
-**🛍️ Daraz Track Suit Scraper
-**
+**🛍️ Daraz Track Suit Scraper**
+
 A Python-based web scraping project that extracts track suit product data from Daraz.pk using Selenium and BeautifulSoup.
 
 This scraper automates pagination, handles dynamic content loading, and exports structured product data into a CSV file for analysis.
@@ -42,7 +42,7 @@ The scraper iterates through multiple pages and collects detailed product inform
 
 daraz-track-suit-scraper/
 
-│
+
 ├── scrapping.py
 
 ├── requirements.txt
