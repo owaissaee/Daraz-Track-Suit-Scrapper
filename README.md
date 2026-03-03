@@ -57,6 +57,7 @@ daraz-track-suit-scraper/
 1️⃣ Clone the repository
 
 bash
+
 git clone https://github.com/owaissaee/Daraz-Track-Suit-Scrapper.git
 
 cd Daraz-Track-Suit-Scrapper
@@ -78,9 +79,11 @@ pip install -r requirements.txt
 ▶️ Usage
 
 Run the scraper:
+
 python scrapping.py
 
 After execution, the scraped data will be saved as:
+
 track_suits.csv
 
 ---
@@ -89,31 +92,34 @@ track_suits.csv
 
 The generated CSV contains the following columns:
 
-Column Name	                    Description
+Column Name	                                    Description
 
-Product Name	                Name of the item
+Product Name	                                Name of the item
 
-Current Price	                Discounted price
+Current Price	                                Discounted price
 
-Original Price	              Price before discount
+Original Price	                              Price before discount
 
-Discount	                    Discount percentage
+Discount	                                    Discount percentage
 
-Rating	                      Product rating
+Rating	                                      Product rating
 
-Sold Units	                  Units sold
+Sold Units	                                  Units sold
 
-Location	                    Seller location
+Location	                                    Seller location
 
-Product URL	                  Direct link to product
+Product URL	                                  Direct link to product
 
 ---
 
 ⚠️ Notes
 
 This project is intended for educational purposes only.
+
 Excessive scraping may result in IP blocking.
+
 Consider enabling headless mode for server environments.
+
 Website structure changes may require selector updates.
 
 ---
@@ -121,10 +127,15 @@ Website structure changes may require selector updates.
 🧠 Future Improvements
 
 Add logging instead of print statements
+
 Convert into modular/OOP structure
+
 Add CLI arguments for query and page count
+
 Dockerize the project
+
 Deploy on a cloud server
+
 Store data in a database instead of CSV
 
 ---
