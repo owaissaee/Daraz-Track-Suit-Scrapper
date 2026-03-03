@@ -1,12 +1,12 @@
-🛍️ Daraz Track Suit Scraper
-
+**🛍️ Daraz Track Suit Scraper
+**
 A Python-based web scraping project that extracts track suit product data from Daraz.pk using Selenium and BeautifulSoup.
 
 This scraper automates pagination, handles dynamic content loading, and exports structured product data into a CSV file for analysis.
 
 ---
 
-📌 Project Overview
+**📌 Project Overview**
 
 Daraz.pk loads product listings dynamically, which requires browser automation for reliable scraping.  
 This project uses:
@@ -20,7 +20,7 @@ The scraper iterates through multiple pages and collects detailed product inform
 
 ---
 
-🚀 Features
+**🚀 Features**
 
 - Extracts:
   - Product Name
@@ -38,7 +38,7 @@ The scraper iterates through multiple pages and collects detailed product inform
 
 ---
 
-📂 Project Structure
+**📂 Project Structure**
 
 daraz-track-suit-scraper/
 │
@@ -52,7 +52,7 @@ daraz-track-suit-scraper/
 
 ---
 
-⚙️ Installation
+**⚙️ Installation**
 
 1️⃣ Clone the repository
 
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ---
 
-▶️ Usage
+**▶️ Usage**
 
 Run the scraper:
 
@@ -88,7 +88,7 @@ track_suits.csv
 
 ---
 
-📊 Output Format
+**📊 Output Format**
 
 The generated CSV contains the following columns:
 
@@ -112,7 +112,7 @@ Product URL	                                  Direct link to product
 
 ---
 
-⚠️ Notes
+**⚠️ Notes**
 
 This project is intended for educational purposes only.
 
@@ -124,7 +124,7 @@ Website structure changes may require selector updates.
 
 ---
 
-🧠 Future Improvements
+**🧠 Future Improvements**
 
 Add logging instead of print statements
 
@@ -140,6 +140,6 @@ Store data in a database instead of CSV
 
 ---
 
-👤 Author
+**👤 Author**
 
 Owais Saeed
