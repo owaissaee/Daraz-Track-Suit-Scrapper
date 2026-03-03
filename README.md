@@ -41,6 +41,7 @@ The scraper iterates through multiple pages and collects detailed product inform
 **📂 Project Structure**
 
 daraz-track-suit-scraper/
+
 │
 ├── scrapping.py
 
